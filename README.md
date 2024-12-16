@@ -49,9 +49,11 @@ A simple tool designed to help analyze MRI scans, group (cluster) tumor images, 
 
 ## 🧪 Sample Results
   Prediction Example:
-   ![Demo 1](Demo/analysis.png) 
+  
+  ![Demo 1](Demo/analysis.png) 
 
   Clustering Example:
+  
   ![Demo 2](Demo/clustering.png) 
 
 
