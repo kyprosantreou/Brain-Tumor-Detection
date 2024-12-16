@@ -48,13 +48,11 @@ A simple tool designed to help analyze MRI scans, group (cluster) tumor images, 
   - Grad-CAM Visualization: Interpret the model's predictions using heatmaps that highlight important areas in the uploaded       MRI scan.
 
 ## 🧪 Sample Results
-  Prediction Example:
-   ![Demo 1](Demo/analysis.png) 
+  Demo:
 
-  Clustering Example:
-  ![Demo 2](Demo/clustering.png) 
+  ![Demo 1](Demo/demo.gif) 
 
 
+🧑‍💻 Author:
 
-🧑‍💻 Author
 Developed by Kypros Andreou. If you have any questions or feedback, feel free to reach out!
