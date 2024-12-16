@@ -58,5 +58,6 @@ A simple tool designed to help analyze MRI scans, group (cluster) tumor images, 
 
 
 
-🧑‍💻 Author
+🧑‍💻 Author:
+
 Developed by Kypros Andreou. If you have any questions or feedback, feel free to reach out!
