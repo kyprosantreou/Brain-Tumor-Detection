@@ -49,6 +49,7 @@ A simple tool designed to help analyze MRI scans, group (cluster) tumor images, 
 
 ## 🧪 Sample Results
   Demo:
+  
    ![Demo 1](Demo/demo.gif) 
 
 
