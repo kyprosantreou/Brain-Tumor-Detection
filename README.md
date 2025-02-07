@@ -27,8 +27,8 @@ A simple tool designed to help analyze MRI scans, group (cluster) tumor images, 
 2. Create a virtual environment and activate it:
    ```bash
    python -m venv venv
-    source venv/bin/activate       # For Linux/macOS
-    venv\Scripts\activate          # For Windows
+   source venv/bin/activate       # For Linux/macOS
+   venv\Scripts\activate          # For Windows
    ```
 3. Install the required prerequisites:
    ```bash
